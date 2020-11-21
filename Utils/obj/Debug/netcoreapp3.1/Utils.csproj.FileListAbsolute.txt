@@ -1,0 +1,9 @@
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

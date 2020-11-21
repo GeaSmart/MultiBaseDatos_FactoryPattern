@@ -1,0 +1,12 @@
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\DAO.deps.json
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\DAO.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\ref\DAO.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\DAO.pdb
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.csprojAssemblyReference.cache
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.AssemblyInfo.cs
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\ref\DAO.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.pdb
