@@ -2,14 +2,10 @@ C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\bin\Debug\net5.0
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\bin\Debug\net5.0\Implementation.dll
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\bin\Debug\net5.0\ref\Implementation.dll
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\bin\Debug\net5.0\Implementation.pdb
-C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\bin\Debug\net5.0\DAO.dll
-C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\bin\Debug\net5.0\DAO.pdb
-C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.csprojAssemblyReference.cache
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.AssemblyInfoInputs.cache
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.AssemblyInfo.cs
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.csproj.CoreCompileInputs.cache
-C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.csproj.CopyComplete
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.dll
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\ref\Implementation.dll
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\Implementation\obj\Debug\net5.0\Implementation.pdb

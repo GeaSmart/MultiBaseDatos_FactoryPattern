@@ -1,7 +1,8 @@
-﻿using DAO;
+﻿//using DAO;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.Common;
 using System.Data.SqlClient;
 using System.IO;
@@ -14,13 +15,14 @@ namespace Implementation
     {
         private const string DB_Properties = @"Meta-Inf/SqlProperties.json";
 
-        public DbConnection getConnection()
+        public IDbConnection getConnection()
         {
-            DbConnection conexion = null;
+            IDbConnection conexion = null;
             try
             {
                 string connectionString = createConnectionString();
                 conexion = new SqlConnection(connectionString);
+                conexion.Open();
                 return conexion;
             }
             catch (Exception e)

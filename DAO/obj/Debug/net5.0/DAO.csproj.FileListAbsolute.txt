@@ -10,3 +10,8 @@ C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.csproj
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.dll
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\ref\DAO.dll
 C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.pdb
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\Implementation.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\Implementation.pdb
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\obj\Debug\net5.0\DAO.csproj.CopyComplete
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\Entity.dll
+C:\Users\Gazabache\Desktop\FactoryMethod\MultiBD\DAO\bin\Debug\net5.0\Entity.pdb

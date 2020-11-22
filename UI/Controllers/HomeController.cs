@@ -7,7 +7,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using UI.Models;
 using Implementation;
-
+using Entity;
+using DAO;
 
 namespace UI.Controllers
 {
@@ -22,9 +23,11 @@ namespace UI.Controllers
 
         public IActionResult Index()
         {
-            SQLDBAdapter adapter = new SQLDBAdapter();
-            adapter.createConnectionString();
-            return View();
+            ProductoDAO productoDao = new ProductoDAO();
+            List<Producto> listado = new List<Producto>();
+            listado = productoDao.findAllProducts();
+            
+            return View(listado);
         }
 
         public IActionResult Privacy()
