@@ -1,5 +1,0 @@
-﻿host localhost
-port 1433
-dbname multibd
-user sa
-password EC1admin

@@ -6,6 +6,8 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using UI.Models;
+using Implementation;
+
 
 namespace UI.Controllers
 {
@@ -20,6 +22,8 @@ namespace UI.Controllers
 
         public IActionResult Index()
         {
+            SQLDBAdapter adapter = new SQLDBAdapter();
+            adapter.createConnectionString();
             return View();
         }
 
