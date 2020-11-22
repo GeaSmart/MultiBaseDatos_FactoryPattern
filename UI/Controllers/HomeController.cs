@@ -24,9 +24,8 @@ namespace UI.Controllers
         public IActionResult Index()
         {
             ProductoDAO productoDao = new ProductoDAO();
-            List<Producto> listado = new List<Producto>();
-            listado = productoDao.findAllProducts();
-            
+            List<Producto> listado = productoDao.findAllProducts();
+                        
             return View(listado);
         }
 

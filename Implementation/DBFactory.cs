@@ -12,7 +12,8 @@ namespace Imlpementation
     public class DBFactory
     {
         private const string APP_settings = @"appsettings.json";
-        public static IDBAdapter GetDBAdapter(DBType engine)
+
+        public static IDBAdapter GetDBAdapter(DBType engine)//Cuando uno quiere indicarle directamente el db engine y no obtenerla de appsettings.json
         {
             switch (engine)
             {
